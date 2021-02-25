@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{DA539E7B-5A34-448F-9493-F9F69DC4C599}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>TestWebDemo</RootNamespace>
+    <AssemblyName>TestWebDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TestWebDemo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TestWebDemo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AJAX3.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="AJAXDemo1.aspx" />
+    <Content Include="AJAXDemo2.aspx" />
+    <Content Include="App_Data\testdemo.accdb" />
+    <Content Include="App_Data\TYBCA.mdf" />
+    <Content Include="App_Data\TYBCA_log.ldf">
+      <DependentUpon>TYBCA.mdf</DependentUpon>
+    </Content>
+    <Content Include="BulletList.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="home123.aspx" />
+    <Content Include="Images\1.jpg" />
+    <Content Include="Images\a3.jpg" />
+    <Content Include="Images\ads2.jpg" />
+    <Content Include="Images\Avsar Header.png" />
+    <Content Include="Images\GreenFish.ico" />
+    <Content Include="Images\h1.png" />
+    <Content Include="Images\it-consultant.jpg" />
+    <Content Include="Images\ITConsultancy.jpg" />
+    <Content Include="Images\JA-18001-S.jpg" />
+    <Content Include="Images\JA-18002-S.jpg" />
+    <Content Include="Images\JA-18003-S.jpg" />
+    <Content Include="Images\JA-18006-S.jpg" />
+    <Content Include="Images\JA-18007-S.jpg" />
+    <Content Include="Images\JA-18012-S.jpg" />
+    <Content Include="Images\JA-18014-S.jpg" />
+    <Content Include="Images\JA-18018-S.jpg" />
+    <Content Include="Images\progress.gif" />
+    <Content Include="Images\S.PNG" />
+    <Content Include="ITcompany.xml" />
+    <Content Include="ListboxDemo.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="LoginDemo.aspx" />
+    <Content Include="prod_db.mdf" />
+    <None Include="Web References\localhost1\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\localhost1\WebService1.wsdl" />
+    <None Include="Web References\localhost\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\localhost\WebService1.disco" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+    <Content Include="Home.aspx" />
+    <Content Include="AboutUs.aspx" />
+    <Content Include="Registration.aspx" />
+    <Content Include="ListDemo.aspx" />
+    <Content Include="validationDemo.aspx" />
+    <Content Include="Calender.aspx" />
+    <Content Include="AdRotatorDemo.aspx" />
+    <Content Include="fileUploadDemo.aspx" />
+    <Content Include="DataBindingDemo.aspx" />
+    <Content Include="repeaterDemo.aspx" />
+    <Content Include="FormViewDemo.aspx" />
+    <Content Include="ViewStateDemo1.aspx" />
+    <Content Include="ViewStateDemo2.aspx" />
+    <Content Include="CrossPage1.aspx" />
+    <Content Include="CrossPage2.aspx" />
+    <Content Include="about_us.aspx" />
+    <Content Include="controldemo.aspx" />
+    <Content Include="SessionDemo.aspx" />
+    <Content Include="AJAXDemo3.aspx" />
+    <Content Include="DataBaseDemo.aspx" />
+    <Content Include="Insert_Update_Delete.aspx" />
+    <Content Include="DisconnectedDemo.aspx" />
+    <Content Include="WebService1.asmx" />
+    <Content Include="WebService2.asmx" />
+    <Content Include="Welcome.aspx" />
+    <Content Include="XMLFile1.xml" />
+    <None Include="Web References\localhost\WebService1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AJAXDemo1.aspx.designer.vb">
+      <DependentUpon>AJAXDemo1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AJAXDemo1.aspx.vb">
+      <DependentUpon>AJAXDemo1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AJAXDemo2.aspx.designer.vb">
+      <DependentUpon>AJAXDemo2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AJAXDemo2.aspx.vb">
+      <DependentUpon>AJAXDemo2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BulletList.aspx.designer.vb">
+      <DependentUpon>BulletList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BulletList.aspx.vb">
+      <DependentUpon>BulletList.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.vb">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.vb">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Furniture.vb" />
+    <Compile Include="home123.aspx.designer.vb">
+      <DependentUpon>home123.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home123.aspx.vb">
+      <DependentUpon>home123.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ListboxDemo.aspx.designer.vb">
+      <DependentUpon>ListboxDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListboxDemo.aspx.vb">
+      <DependentUpon>ListboxDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="LoginDemo.aspx.designer.vb">
+      <DependentUpon>LoginDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginDemo.aspx.vb">
+      <DependentUpon>LoginDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProdEntity.vb" />
+    <Compile Include="test.Master.designer.vb">
+      <DependentUpon>test.Master</DependentUpon>
+    </Compile>
+    <Compile Include="test.Master.vb">
+      <DependentUpon>test.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test123.Master.designer.vb">
+      <DependentUpon>test123.Master</DependentUpon>
+    </Compile>
+    <Compile Include="test123.Master.vb">
+      <DependentUpon>test123.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web References\localhost1\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\localhost\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.vb">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.vb">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.vb">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.vb">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.vb">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AboutUs.aspx.vb">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Registration.aspx.designer.vb">
+      <DependentUpon>Registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.aspx.vb">
+      <DependentUpon>Registration.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ListDemo.aspx.designer.vb">
+      <DependentUpon>ListDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListDemo.aspx.vb">
+      <DependentUpon>ListDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="validationDemo.aspx.designer.vb">
+      <DependentUpon>validationDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="validationDemo.aspx.vb">
+      <DependentUpon>validationDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Calender.aspx.designer.vb">
+      <DependentUpon>Calender.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Calender.aspx.vb">
+      <DependentUpon>Calender.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AdRotatorDemo.aspx.designer.vb">
+      <DependentUpon>AdRotatorDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdRotatorDemo.aspx.vb">
+      <DependentUpon>AdRotatorDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="fileUploadDemo.aspx.designer.vb">
+      <DependentUpon>fileUploadDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fileUploadDemo.aspx.vb">
+      <DependentUpon>fileUploadDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DataBindingDemo.aspx.designer.vb">
+      <DependentUpon>DataBindingDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataBindingDemo.aspx.vb">
+      <DependentUpon>DataBindingDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="repeaterDemo.aspx.designer.vb">
+      <DependentUpon>repeaterDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="repeaterDemo.aspx.vb">
+      <DependentUpon>repeaterDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormViewDemo.aspx.designer.vb">
+      <DependentUpon>FormViewDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormViewDemo.aspx.vb">
+      <DependentUpon>FormViewDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ViewStateDemo1.aspx.designer.vb">
+      <DependentUpon>ViewStateDemo1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStateDemo1.aspx.vb">
+      <DependentUpon>ViewStateDemo1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ViewStateDemo2.aspx.designer.vb">
+      <DependentUpon>ViewStateDemo2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStateDemo2.aspx.vb">
+      <DependentUpon>ViewStateDemo2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CrossPage1.aspx.designer.vb">
+      <DependentUpon>CrossPage1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrossPage1.aspx.vb">
+      <DependentUpon>CrossPage1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CrossPage2.aspx.designer.vb">
+      <DependentUpon>CrossPage2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrossPage2.aspx.vb">
+      <DependentUpon>CrossPage2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="about_us.aspx.designer.vb">
+      <DependentUpon>about_us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="about_us.aspx.vb">
+      <DependentUpon>about_us.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controldemo.aspx.designer.vb">
+      <DependentUpon>controldemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="controldemo.aspx.vb">
+      <DependentUpon>controldemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SessionDemo.aspx.designer.vb">
+      <DependentUpon>SessionDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SessionDemo.aspx.vb">
+      <DependentUpon>SessionDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="AJAXDemo3.aspx.designer.vb">
+      <DependentUpon>AJAXDemo3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AJAXDemo3.aspx.vb">
+      <DependentUpon>AJAXDemo3.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DataBaseDemo.aspx.designer.vb">
+      <DependentUpon>DataBaseDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseDemo.aspx.vb">
+      <DependentUpon>DataBaseDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Insert_Update_Delete.aspx.designer.vb">
+      <DependentUpon>Insert_Update_Delete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insert_Update_Delete.aspx.vb">
+      <DependentUpon>Insert_Update_Delete.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DisconnectedDemo.aspx.designer.vb">
+      <DependentUpon>DisconnectedDemo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DisconnectedDemo.aspx.vb">
+      <DependentUpon>DisconnectedDemo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="WebService1.asmx.vb">
+      <DependentUpon>WebService1.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WebService2.asmx.vb">
+      <DependentUpon>WebService2.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Welcome.aspx.designer.vb">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.aspx.vb">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="test.Master" />
+    <Content Include="test123.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UploadFile\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:55777/WebService1.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\localhost\</RelPath>
+      <UpdateFromURL>http://localhost:55777/WebService1.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>TestWebDemo_localhost_WebService1</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:55777/WebService1.asmx%3fWSDL">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\localhost1\</RelPath>
+      <UpdateFromURL>http://localhost:55777/WebService1.asmx%3fWSDL</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>TestWebDemo_localhost1_WebService1</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55777</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

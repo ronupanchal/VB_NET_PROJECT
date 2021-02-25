@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.example.org/MyOnto"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     ontologyIRI="http://www.example.org/MyOnto">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Fee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClassImpl_6f05d582_55c1_49b2_9b91_36146195bd25"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClassImpl_85eb36f0_3ab2_4840_bf1c_7a46399e5bf5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClassImpl_beb75ab9_d6bf_4cbe_b6d9_08d28ca98761"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Post_Graduate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasDecided"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasOffered"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSpecific"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isAffiliatedTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isOffered"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#OWLClassImpl_85eb36f0_3ab2_4840_bf1c_7a46399e5bf5"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Post_Graduate"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </SubClassOf>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#hasOffered"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#isAffiliatedTo"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#isOffered"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#hasSpecific"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDecided"/>
+        <Class IRI="#OWLClassImpl_6f05d582_55c1_49b2_9b91_36146195bd25"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasDecided"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasOffered"/>
+        <Class IRI="#OWLClassImpl_6f05d582_55c1_49b2_9b91_36146195bd25"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasOffered"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSpecific"/>
+        <Class IRI="#OWLClassImpl_beb75ab9_d6bf_4cbe_b6d9_08d28ca98761"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isAffiliatedTo"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isOffered"/>
+        <Class IRI="#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasDecided"/>
+        <Class IRI="#Fee"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasOffered"/>
+        <Class IRI="#OWLClassImpl_85eb36f0_3ab2_4840_bf1c_7a46399e5bf5"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasOffered"/>
+        <Class IRI="#Post_Graduate"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasSpecific"/>
+        <Class IRI="#Fee"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isAffiliatedTo"/>
+        <Class IRI="#OWLClassImpl_6f05d582_55c1_49b2_9b91_36146195bd25"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isOffered"/>
+        <Class IRI="#OWLClassImpl_beb75ab9_d6bf_4cbe_b6d9_08d28ca98761"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClassImpl_6f05d582_55c1_49b2_9b91_36146195bd25</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">University</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClassImpl_85eb36f0_3ab2_4840_bf1c_7a46399e5bf5</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Under_Graduate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClassImpl_9ef82eae_013b_4334_b10b_fc9215c2f972</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">College</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClassImpl_beb75ab9_d6bf_4cbe_b6d9_08d28ca98761</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Course</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+

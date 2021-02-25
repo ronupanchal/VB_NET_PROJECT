@@ -1,0 +1,25 @@
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.exe
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.pdb
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.xml
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Resources.resources
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.vbproj.GenerateResource.Cache
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.exe
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.xml
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.pdb
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Form1.resources
+C:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Welcome.resources
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.exe
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.xml
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.pdb
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.exe
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.pdb
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\bin\Debug\TestDemo.xml
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Form1.resources
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Resources.resources
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.Welcome.resources
+D:\college work\SEM-IV\DotNetPro\TestDemo\TestDemo\obj\Debug\TestDemo.vbproj.GenerateResource.Cache
+D:\TestDemo\TestDemo\obj\Debug\TestDemo.exe
+D:\TestDemo\TestDemo\obj\Debug\TestDemo.xml
+D:\TestDemo\TestDemo\obj\Debug\TestDemo.pdb

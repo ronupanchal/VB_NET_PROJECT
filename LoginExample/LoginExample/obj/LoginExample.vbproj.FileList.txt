@@ -1,0 +1,10 @@
+bin\Debug\LoginExample.exe
+bin\Debug\LoginExample.pdb
+bin\Debug\LoginExample.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LoginExample.Form1.resources
+obj\Debug\LoginExample.Resources.resources
+obj\Debug\LoginExample.vbproj.GenerateResource.Cache
+obj\Debug\LoginExample.exe
+obj\Debug\LoginExample.xml
+obj\Debug\LoginExample.pdb

@@ -1,0 +1,30 @@
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\bin\Debug\maskTextBox.exe
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\bin\Debug\maskTextBox.pdb
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\bin\Debug\maskTextBox.xml
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Form1.resources
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Resources.resources
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.exe
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.xml
+C:\Documents and Settings\Ronny\Desktop\maskTextBox\maskTextBox\obj\Debug\maskTextBox.pdb
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.exe
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.xml
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.pdb
+E:\Backup\maskTextBox\maskTextBox\bin\Debug\maskTextBox.exe
+E:\Backup\maskTextBox\maskTextBox\bin\Debug\maskTextBox.pdb
+E:\Backup\maskTextBox\maskTextBox\bin\Debug\maskTextBox.xml
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Form1.resources
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Resources.resources
+E:\Backup\maskTextBox\maskTextBox\obj\Debug\maskTextBox.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.exe
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.xml
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.pdb
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\bin\Debug\maskTextBox.exe
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\bin\Debug\maskTextBox.pdb
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\bin\Debug\maskTextBox.xml
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Form1.resources
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Resources.resources
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\maskTextBox\maskTextBox\obj\Debug\maskTextBox.Form2.resources

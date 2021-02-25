@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoginExample">
+</Property><Property Name="Solution File" Value="D:\myproj\LoginExample\LoginExample.sln">
+</Property><Property Name="User Options File" Value="D:\myproj\LoginExample\LoginExample.suo">
+</Property><Property Name="Date" Value="Saturday, December 18, 2010">
+</Property><Property Name="Time" Value="10:49 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoginExample.sln" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LoginExample.suo" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample.suo">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Project file successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\LoginExample.vbproj">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Form1.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.Designer.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Application.Designer.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Application.myapp" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Settings.settings" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg001.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Bg001.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Cancel1.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Cancel1.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Cancel.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Cancel.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\community_users.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\community_users.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\icon_users.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\icon_users.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Login1.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Login1.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Login.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Login.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\User-icon.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\User-icon.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg002.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Bg002.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg003.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Bg003.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg004.png" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Resources\Bg004.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.resx" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Resources.resx" Description="File successfully backed up as D:\myproj\LoginExample\Backup\LoginExample\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LoginExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LoginExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

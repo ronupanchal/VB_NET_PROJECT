@@ -1,0 +1,63 @@
+E:\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe.manifest
+E:\DayBook\Daybook\Daybook\bin\Debug\Daybook.application
+E:\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe
+E:\DayBook\Daybook\Daybook\bin\Debug\Daybook.pdb
+E:\DayBook\Daybook\Daybook\bin\Debug\Daybook.xml
+E:\DayBook\Daybook\Daybook\obj\Debug\ResolveAssemblyReference.cache
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmRep.resources
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmMain.resources
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmlogin.resources
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.Resources.resources
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.vbproj.GenerateResource.Cache
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe.manifest
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.application
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+E:\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+G:\Documents and Settings\ronny\Desktop\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+G:\Documents and Settings\ronny\Desktop\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+G:\Documents and Settings\ronny\Desktop\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+C:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+C:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+C:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\ResolveAssemblyReference.cache
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmRep.resources
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmMain.resources
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmlogin.resources
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.Resources.resources
+D:\college work\SEM-IV\DotNetPro\DayBook\Daybook\Daybook\obj\Debug\Daybook.vbproj.GenerateResource.Cache
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+D:\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe.manifest
+D:\DayBook\Daybook\Daybook\bin\Debug\Daybook.application
+D:\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe
+D:\DayBook\Daybook\Daybook\bin\Debug\Daybook.pdb
+D:\DayBook\Daybook\Daybook\bin\Debug\Daybook.xml
+D:\DayBook\Daybook\Daybook\obj\Debug\ResolveAssemblyReference.cache
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmRep.resources
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmMain.resources
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmlogin.resources
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.Resources.resources
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.vbproj.GenerateResource.Cache
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe.manifest
+D:\DayBook\Daybook\Daybook\obj\Debug\Daybook.application
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.xml
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.pdb
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmRep.resources
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmMain.resources
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.frmlogin.resources
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.Resources.resources
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe.manifest
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\bin\Debug\Daybook.application
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\bin\Debug\Daybook.exe
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\bin\Debug\Daybook.pdb
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\bin\Debug\Daybook.xml
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.vbprojResolveAssemblyReference.cache
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.exe.manifest
+D:\college work\SEM-IV\VBNETProject\DayBook\Daybook\Daybook\obj\Debug\Daybook.application

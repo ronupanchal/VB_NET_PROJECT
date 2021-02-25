@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+   <ImageUrl>Images/JA-18001-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo1.aspx</NavugateUrl>
+    <AlternateText>ABC</AlternateText>
+    <Keyword>Image1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18002-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo2.aspx</NavugateUrl>
+    <AlternateText>xyz</AlternateText>
+    <Keyword>Image2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18003-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo1.aspx</NavugateUrl>
+    <AlternateText>ABC</AlternateText>
+    <Keyword>Image1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18006-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo2.aspx</NavugateUrl>
+    <AlternateText>xyz</AlternateText>
+    <Keyword>Image2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18007-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo1.aspx</NavugateUrl>
+    <AlternateText>ABC</AlternateText>
+    <Keyword>Image1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18012-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo2.aspx</NavugateUrl>
+    <AlternateText>xyz</AlternateText>
+    <Keyword>Image2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18014-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo1.aspx</NavugateUrl>
+    <AlternateText>ABC</AlternateText>
+    <Keyword>Image1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/JA-18018-S.jpg</ImageUrl>
+    <NavugateUrl>AJAXDemo2.aspx</NavugateUrl>
+    <AlternateText>xyz</AlternateText>
+    <Keyword>Image2</Keyword>
+  </Ad>
+</Advertisements>
+  

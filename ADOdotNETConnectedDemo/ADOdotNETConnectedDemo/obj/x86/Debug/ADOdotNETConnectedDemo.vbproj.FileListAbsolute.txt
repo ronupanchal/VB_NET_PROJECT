@@ -1,0 +1,15 @@
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ADOdotNETConnectedDemo.exe
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ADOdotNETConnectedDemo.pdb
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ADOdotNETConnectedDemo.xml
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.Form1.resources
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.Resources.resources
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.exe
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.xml
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.pdb
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.vbprojResolveAssemblyReference.cache
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ClassLibrary1.dll
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ClassLibrary1.pdb
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\bin\Debug\ClassLibrary1.xml
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.Form2.resources
+D:\college work\SEM-IV\VBNETProject\ADOdotNETConnectedDemo\ADOdotNETConnectedDemo\obj\x86\Debug\ADOdotNETConnectedDemo.CountDigitOrChar.resources

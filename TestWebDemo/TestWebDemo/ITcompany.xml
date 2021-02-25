@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/h1.png</ImageUrl>
+    <NavigateUrl>AboutUs.aspx</NavigateUrl>
+    <AlternateText>Mr Cosmos</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Image1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/S.PNG</ImageUrl>
+    <NavigateUrl>Registration.aspx</NavigateUrl>
+    <AlternateText>Sarrafi</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Image2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/ads2.jpg</ImageUrl>
+    <NavigateUrl>Calender.aspx</NavigateUrl>
+    <AlternateText>Dhruve</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>Image3</Keyword>
+  </Ad>
+</Advertisements>

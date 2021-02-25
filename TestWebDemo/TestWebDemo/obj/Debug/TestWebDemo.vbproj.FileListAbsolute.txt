@@ -1,0 +1,9 @@
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\bin\TestWebDemo.dll
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\bin\TestWebDemo.pdb
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\bin\TestWebDemo.xml
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.Resources.resources
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.dll
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.xml
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.pdb
+D:\college work\SEM-IV\VBNETProject\TestWebDemo\TestWebDemo\obj\Debug\TestWebDemo.vbprojResolveAssemblyReference.cache

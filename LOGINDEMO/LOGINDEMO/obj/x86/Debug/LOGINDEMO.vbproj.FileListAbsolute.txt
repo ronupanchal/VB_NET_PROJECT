@@ -1,0 +1,10 @@
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\bin\Debug\LOGINDEMO.exe
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\bin\Debug\LOGINDEMO.pdb
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\bin\Debug\LOGINDEMO.xml
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.Form1.resources
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.Resources.resources
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.vbproj.GenerateResource.Cache
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.exe
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.xml
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.pdb
+D:\college work\SEM-IV\VBNETProject\LOGINDEMO\LOGINDEMO\obj\x86\Debug\LOGINDEMO.Form2.resources

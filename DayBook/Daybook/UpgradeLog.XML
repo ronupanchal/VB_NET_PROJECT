@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Daybook">
+</Property><Property Name="Solution File" Value="E:\DayBook\Daybook\Daybook.sln">
+</Property><Property Name="User Options File" Value="E:\DayBook\Daybook\Daybook.suo">
+</Property><Property Name="Date" Value="05 April 2009">
+</Property><Property Name="Time" Value="15:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Daybook.sln" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Daybook.suo" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook.suo">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Daybook.vbproj" Description="Project file successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Daybook.vbproj">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Daybook.vbproj.user" Description="Project user file successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Daybook.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmRep.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmRep.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmRep.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmRep.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmMain.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmMain.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmlogin.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmlogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmlogin.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmlogin.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Modules\GobMod.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Modules\GobMod.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Application.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\DayWise.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\DayWise.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\ExpenceWise.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\ExpenceWise.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\ItemWise.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\ItemWise.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\UserWise.vb" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\UserWise.vb">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Application.myapp" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Settings.settings" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\boxbg.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\boxbg.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\button2.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\button2.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\button3.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\button3.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\on.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\on.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\back.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\back.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\mys.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\mys.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\postit.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\postit.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\bodybg1.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\bodybg1.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\body-bg0.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\body-bg0.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\bg_grad.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\bg_grad.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\html.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\html.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\main-bg.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\main-bg.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\sys_req_bg1.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\sys_req_bg1.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\20qfl0.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\20qfl0.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\glove.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\glove.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\web_256x256.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\web_256x256.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\login.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\login.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\125.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\125.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\bg_grad1.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\bg_grad1.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\shield-red_256x256.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\shield-red_256x256.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\stred.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\stred.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\header_overlay.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\header_overlay.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\body-bg01.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\body-bg01.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\lay-03.jpg" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\lay-03.jpg">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\texttop.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\texttop.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\title.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\title.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\stred1.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\stred1.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\smile_256x256.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\smile_256x256.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\dead_256x256.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\dead_256x256.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\calculator_256x256.png" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\calculator_256x256.png">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\animated-globe.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\animated-globe.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Daybook_TemporaryKey.pfx" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Daybook_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\Globe_Full_Ani.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\Globe_Full_Ani.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\box-item.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\box-item.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\bodybg.gif" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\bodybg.gif">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Resources\bodybg.bmp" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Resources\bodybg.bmp">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\cdrom.ico" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\cdrom.ico">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmRep.resx" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmRep.resx">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmMain.resx" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Forms\frmlogin.resx" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Forms\frmlogin.resx">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\My Project\Resources.resx" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\DayWise.rpt" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\DayWise.rpt">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\ExpenceWise.rpt" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\ExpenceWise.rpt">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\ItemWise.rpt" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\ItemWise.rpt">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Reports\UserWise.rpt" Description="File successfully backed up as E:\DayBook\Daybook\Backup\Daybook\Reports\UserWise.rpt">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Daybook.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Daybook" Source="Daybook\Daybook.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Daybook.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Daybook.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Daybook" Source="Daybook\Daybook.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

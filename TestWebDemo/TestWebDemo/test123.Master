@@ -1,0 +1,34 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="test123.master.vb" Inherits="TestWebDemo.test123" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head123" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table width="100%">
+        <tr>
+            <td>header</td>
+        </tr>
+        <tr>
+            <td><a href="home123.aspx" style="text-decoration: none">Home</a> || <a href="about_us.aspx">About Us</a>|| <a href="controldemo.aspx">Control</a></td>
+        </tr>
+        <tr>
+            <td> <asp:ContentPlaceHolder ID="cnt123" runat="server">
+        
+        </asp:ContentPlaceHolder></td>
+        </tr>
+        <tr>
+            <td>footer</td>
+        </tr>
+    </table>
+       
+    </div>
+    </form>
+</body>
+</html>

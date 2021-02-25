@@ -1,0 +1,4 @@
+D:\college work\SEM-IV\VBNETProject\SemWebDemo\SemWebDemo\obj\x86\Debug\SemWebDemo.pdb
+D:\college work\SEM-IV\VBNETProject\SemWebDemo\SemWebDemo\bin\Debug\SemWebDemo.exe
+D:\college work\SEM-IV\VBNETProject\SemWebDemo\SemWebDemo\bin\Debug\SemWebDemo.pdb
+D:\college work\SEM-IV\VBNETProject\SemWebDemo\SemWebDemo\obj\x86\Debug\SemWebDemo.exe

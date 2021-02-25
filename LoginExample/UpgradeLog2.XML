@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoginExample">
+</Property><Property Name="Solution File" Value="D:\college work\SEM-IV\VBNETProject\LoginExample\LoginExample.sln">
+</Property><Property Name="User Options File" Value="D:\college work\SEM-IV\VBNETProject\LoginExample\LoginExample.suo">
+</Property><Property Name="Date" Value="21 February 2014">
+</Property><Property Name="Time" Value="18:05">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoginExample.sln" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LoginExample.suo" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample.suo">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Project file successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\LoginExample.vbproj">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Form1.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.Designer.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Application.Designer.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Application.myapp" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Settings.settings" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg001.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Bg001.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Cancel1.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Cancel1.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Cancel.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Cancel.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\community_users.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\community_users.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\icon_users.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\icon_users.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Login1.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Login1.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Login.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Login.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\User-icon.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\User-icon.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg002.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Bg002.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg003.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Bg003.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Resources\Bg004.png" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Resources\Bg004.png">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\Form1.resx" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\My Project\Resources.resx" Description="File successfully backed up as D:\college work\SEM-IV\VBNETProject\LoginExample\Backup1\LoginExample\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LoginExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LoginExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoginExample" Source="LoginExample\LoginExample.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

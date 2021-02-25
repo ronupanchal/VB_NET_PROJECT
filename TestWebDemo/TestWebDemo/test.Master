@@ -1,0 +1,57 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="test.master.vb" Inherits="TestWebDemo.test" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <center>
+        <table width="800" border="1">
+            <tr>
+                <td colspan="2" bgcolor="#3399FF">
+                    <table width="790">
+                        <tr>
+                            <td>
+                               
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Avsar Header.png" Width="790" Height="250" /><br />
+                                 <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+                                </td>
+                            
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="Fuchsia">
+                   <a href="Home.aspx">Home</a><br />
+                   <a href="AboutUs.aspx">About Us</a><br />
+                   <a href="ContactUs.aspx">Contact Us</a><br />
+                   <a href="Registration.aspx">Registration</a><br />
+                    <a href="ListboxDemo.aspx">List Demo</a><br />
+                   <a href="Calender.aspx">Calender</a><br />
+                     <a href="AdRotatorDemo.aspx">AdRotator Demo</a><br />
+                      <a href="fileUploadDemo.aspx">FileUpload Demo</a><br />
+                       <a href="validationDemo.aspx">Validation Demo</a><br />
+
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="testmain" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" bgcolor="#3399FF">
+                    footer
+                </td>
+            </tr>
+        </table>
+        </center>
+    </div>
+    </form>
+</body>
+</html>
